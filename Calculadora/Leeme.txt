@@ -1,0 +1,2 @@
+Esta calculadora fue hecha en netbeans. El proyecto
+puede ser importado
