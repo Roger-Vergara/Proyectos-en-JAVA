@@ -1,5 +1,5 @@
 # Proyectos-en-JAVA
 
-Aplicaciones, sistemas y otras cosas...
+Aplicaciones, sistemas y otros elementos creados por mi persona
 
 # System.out.print("¡Bienvenido!");
